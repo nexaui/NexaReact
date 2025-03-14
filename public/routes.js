@@ -4,9 +4,6 @@ import UID from "./Uid";
 import halaman from "./halaman";
 import { MenuComponents } from "./exsampel/menu";
 import { PageOauth } from "./oauth/page";
-import { PagePoliklinik } from "./poliklinik/page";
-import { PageAsuransi } from "./asuransi/page";
-
 /**
  * Konfigurasi Routes dan Navigation
  * --------------------------------
