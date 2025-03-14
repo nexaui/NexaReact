@@ -87,6 +87,8 @@ export const routes = [
     },
   },
   ...PageOauth,
+  ...MenuComponents,
+
 ];
 
 /**
