@@ -87,9 +87,6 @@ export const routes = [
     },
   },
   ...PageOauth,
-  ...PagePoliklinik,
-  ...MenuComponents,
-  ...PageAsuransi,
 ];
 
 /**
